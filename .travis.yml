@@ -9,7 +9,7 @@ before_install:
 
 script:
   - docker run -e CI=true tunstokun/docker-react npm run test
-
+  
 deploy:
   provider: elasticbeanstalk
   region: "us-east-1"
