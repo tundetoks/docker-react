@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed in the feature branch. But im not seeing anything. Sadface
+          I was changed in the feature branch. But im not seeing anything. 
         </p>
         <a
           className="App-link"
